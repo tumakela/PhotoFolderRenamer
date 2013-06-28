@@ -1,4 +1,4 @@
 PhotoFolderRenamer
 ==================
 
-Renames folders in Photos to certain format
+Renames folders in Photos to a certain format
